@@ -4,7 +4,8 @@
 
 .guenter {
   /* height: 40vmin; */
-  max-height: 50%;
+  max-height: 200px;
+  margin-bottom: 200px;
   pointer-events: none;
 }
 
@@ -32,7 +33,7 @@
 }
 
 .car.otherCar {
-  margin-right: 200px;
+  margin-right: 50px;
 }
 
 .road {
