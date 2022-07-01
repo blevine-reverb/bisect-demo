@@ -30,7 +30,7 @@
   font-size: 300%;
   transform: scaleX(-1);
   display: inline-block;
-  animation: spin infinite 500ms linear;
+  animation: spin infinite 2000ms ease-in;
 }
 
 .smoke {

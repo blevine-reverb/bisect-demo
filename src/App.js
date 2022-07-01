@@ -7,7 +7,6 @@ function App() {
       <header className="App-header">
         <img src={guenter} className="guenter" alt="logo" />
         <span className="cars">
-          <p className="car otherCar">🏎️</p>
           <p className="smoke">
             💨
           </p>
