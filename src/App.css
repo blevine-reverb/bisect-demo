@@ -30,13 +30,12 @@
   font-size: 300%;
   transform: scaleX(-1);
   display: inline-block;
-  animation: spin infinite 2000ms ease-in;
 }
 
 .barrier {
   font-size: 300%;
   display: inline-block;
-  margin-right: 500px;
+  margin-right: 0px;
 }
 
 .smoke {
