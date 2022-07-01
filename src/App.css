@@ -33,6 +33,12 @@
   animation: spin infinite 2000ms ease-in;
 }
 
+.barrier {
+  font-size: 300%;
+  display: inline-block;
+  margin-right: 500px;
+}
+
 .smoke {
   animation: spin infinite 100ms linear;
   font-size: 200%;
