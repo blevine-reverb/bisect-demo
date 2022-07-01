@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={guenter} className="guenter" alt="logo" />
         <p className="car">
-          🏎️
+        🏎️💨
         </p>
         <p className="road">
           -------------------------------------------------------------------------------------
