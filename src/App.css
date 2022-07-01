@@ -33,7 +33,12 @@
 }
 
 .car.otherCar {
-  margin-right: 50px;
+  margin-right: -100px;
+}
+
+.crash {
+  font-size: 400%;
+  margin-right: -100px;
 }
 
 .road {

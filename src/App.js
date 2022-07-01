@@ -1,4 +1,4 @@
-import guenter from './guenter-worried.jpg';
+import guenter from './guenter-oh-no.jpg';
 import './App.css';
 
 function App() {
@@ -8,6 +8,7 @@ function App() {
         <img src={guenter} className="guenter" alt="logo" />
         <div className="cars">
           <p className="car otherCar">🏎️</p>
+          <span className="crash">💥</span>
           <p className="car">
             🏎️💨
           </p>
