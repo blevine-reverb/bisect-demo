@@ -1,4 +1,4 @@
-import guenter from './guenter-oh-no.jpg';
+import guenter from './we-will-sort-this.jpg';
 import './App.css';
 
 function App() {
