@@ -6,13 +6,18 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={guenter} className="guenter" alt="logo" />
-        <div className="cars">
+        <span className="cars">
           <p className="car otherCar">🏎️</p>
-          <span className="crash">💥</span>
-          <p className="car">
-            🏎️💨
+          <p className="smoke">
+            💨
           </p>
-        </div>
+          <p className="car">
+            🏎️
+          </p>
+          <p className="smoke">
+            💨
+          </p>
+        </span>
         <p className="road">
           -------------------------------------------------------------------------------------
         </p>
