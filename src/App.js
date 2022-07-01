@@ -6,9 +6,12 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={guenter} className="guenter" alt="logo" />
-        <p className="car">
-        🏎️💨
-        </p>
+        <div className="cars">
+          <p className="car otherCar">🏎️</p>
+          <p className="car">
+            🏎️💨
+          </p>
+        </div>
         <p className="road">
           -------------------------------------------------------------------------------------
         </p>

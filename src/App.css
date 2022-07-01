@@ -20,10 +20,19 @@
   }
 } */
 
+.cars {
+  transform: scaleX(-1);
+}
+
 .car {
   margin-bottom: 0;
   font-size: 300%;
   transform: scaleX(-1);
+  display: inline;
+}
+
+.car.otherCar {
+  margin-right: 500px;
 }
 
 .road {
